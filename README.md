@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there! 👋 I'm Md. Shohan.
 
-<!--
-**shohan2032/shohan2032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **DevOps Enthusiast | Backend Developer**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about building scalable, secure, and efficient systems. Here's a glimpse of what I do:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- 🌐 Exploring **DevOps** and modern software engineering practices.
+- 🔧 Working with **Docker**, **AWS**, and **Nginx** for containerization and deployment.
+- 🖥️ Developing full-stack applications using **Next.js** (frontend) and **AdonisJS** (backend).
+- 💻 Practicing **Bash scripting** and improving Linux (Ubuntu 24.04 LTS) skills.
+- 🌟 Focused on secure systems with SSL configuration.
+
+---
+
+### 🛠️ Skills & Tools
+- **DevOps**: Docker, Docker Compose, AWS EC2
+- **Frontend**: Next.js
+- **Backend**: AdonisJS
+- **CI/CD**: GitHub Actions
+- **Database**: MySQL
+- **Others**: PM2, SSL/TLS configuration, Networking, Bash Scripting
+
+---
+
+### 📦 Current Projects
+- 🛠 Building and automating workflows for CI/CD.
+- 🌐 Configuring full-stack projects.
+- 🏗 Scaling and testing systems with Docker.
+- 📚 Exploring GitHub-hosted runners and managing environments for deployments.
+
+---
+
+### 🌱 What I'm Learning
+- Advanced Docker networking configurations.
+- NVM, pnpm, and efficient JavaScript tooling.
+- Bash scripting for automation.
+- Scaling applications with Docker Swarm.
+
+---
+
+### 📫 Let's Connect!
+Feel free to explore my repositories or reach out for collaboration and learning opportunities. Always excited to connect with fellow developers and DevOps enthusiasts!
+
+---
+
+
