@@ -1,5 +1,3 @@
-⚙️  GitHub Analytics
-
 # Hi there! 👋 I'm Md. Shohan.
 
 🌟 **DevOps Enthusiast | Backend Developer**
