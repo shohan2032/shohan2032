@@ -37,6 +37,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable, secure, an
 
 ### ⚙️ GitHub Analytics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shohan2032&show_icons=true&theme=radical)
+![shohan2032's Stats](https://github-readme-stats.vercel.app/api?username=shohan2032&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shohan2032&layout=compact&theme=radical)
 
 ---
