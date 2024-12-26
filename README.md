@@ -2,7 +2,7 @@
 
 🌟 **DevOps Enthusiast | Backend Developer**
 
-Welcome to my GitHub profile! I'm passionate about building scalable, secure, and efficient systems. Here's a glimpse of what I do:
+Welcome to my GitHub profile! I'm passionate about building scalable, secure, and efficient systems.
 
 ---
 
