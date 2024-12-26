@@ -1,3 +1,5 @@
+⚙️  GitHub Analytics
+
 # Hi there! 👋 I'm Md. Shohan.
 
 🌟 **DevOps Enthusiast | Backend Developer**
@@ -30,6 +32,12 @@ Welcome to my GitHub profile! I'm passionate about building scalable, secure, an
 - 🌐 Configuring full-stack projects.
 - 🏗 Scaling and testing systems with Docker.
 - 📚 Exploring GitHub-hosted runners and managing environments for deployments.
+
+---
+
+### ⚙️ GitHub Analytics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shohan2032&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shohan2032&layout=compact&theme=radical)
 
 ---
 
