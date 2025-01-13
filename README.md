@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable, secure, an
 
 - 🌱 I’m currently learning [DevOps Tools, NextJS and AddonisJS]
 - 📫 Reach me at:
-  - Email: [mohammad.shohan2032@gmail.com]
+  - Email: [(mohammad.shohan2032@gmail.com)]
   - LinkedIn: [https://www.linkedin.com/in/mdshohan2032/]
 - 💻 My Competitive Programming Profiles:
   - LeetCode: [https://leetcode.com/u/shohan2032/]
