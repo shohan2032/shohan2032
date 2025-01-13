@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable, secure, an
 ---
 ### DevOps Tools
 
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-FFA500)
 ![Docker](https://img.shields.io/badge/-Docker-blue)
 ![Nginx](https://img.shields.io/badge/-Nginx-green)
 ![Linux](https://img.shields.io/badge/-Linux-orange)
