@@ -6,13 +6,14 @@ Welcome to my GitHub profile! I'm passionate about building scalable, secure, an
 
 - 🌱 I’m currently learning [DevOps Tools, NextJS and AddonisJS]
 - 📫 Reach me at:
-  - Email: [(mohammad.shohan2032@gmail.com)]
-  - LinkedIn: [https://www.linkedin.com/in/mdshohan2032/]
+  - Email: mohammad.shohan2032@gmail.com
+  - [LinkedIn](https://www.linkedin.com/in/mdshohan2032/)
+
 - 💻 My Competitive Programming Profiles:
-  - LeetCode: [https://leetcode.com/u/shohan2032/]
-  - HackerRank: [https://www.hackerrank.com/profile/C211059shohanA]
-  - Codeforces: [https://codeforces.com/profile/shohan2032]
-  - CodeChef: [https://www.codechef.com/users/shohan2032]
+  - [LeetCode](https://leetcode.com/u/shohan2032/)
+  - [HackerRank](https://www.hackerrank.com/profile/C211059shohanA)
+  - [Codeforces](https://codeforces.com/profile/shohan2032)
+  - [CodeChef](https://www.codechef.com/users/shohan2032)
 - 🌐 Check out my [Portfolio](https://shohan2032.github.io/My-Portfolio/)
 
 ---
