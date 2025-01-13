@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable, secure, an
 
 - 🌱 I’m currently learning [DevOps Tools, NextJS and AddonisJS]
 - 📫 Reach me at:
-  - Email: mohammad.shohan2032@gmail.com
+  - [Email](mohammad.shohan2032@gmail.com)
   - [LinkedIn](https://www.linkedin.com/in/mdshohan2032/)
 
 - 💻 My Competitive Programming Profiles:
@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable, secure, an
 ---
 ### DevOps Tools
 
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-FFA500)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black)
 ![Docker](https://img.shields.io/badge/-Docker-blue)
 ![Nginx](https://img.shields.io/badge/-Nginx-green)
 ![Linux](https://img.shields.io/badge/-Linux-orange)
